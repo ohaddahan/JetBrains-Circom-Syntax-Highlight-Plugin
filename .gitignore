@@ -7,3 +7,6 @@
 build
 .claude
 .env
+chain.crt
+private.pem
+request.csr

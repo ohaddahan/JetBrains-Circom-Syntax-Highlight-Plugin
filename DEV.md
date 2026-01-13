@@ -534,6 +534,7 @@ The `scripts/` directory contains helper scripts:
 | `./scripts/test.sh` | Run tests |
 | `./scripts/run.sh` | Launch sandbox IDE with the plugin |
 | `./scripts/publish.sh` | Publish to JetBrains Marketplace |
+| `./scripts/bump-version.sh` | Bump version (major/minor/patch) |
 
 ## Publishing to JetBrains Marketplace
 
